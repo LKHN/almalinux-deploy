@@ -39,6 +39,7 @@ REMOVE_PKGS=("centos-linux-release" "centos-gpg-keys" "centos-linux-repos" \
                 "libreport-rhel-anaconda-bugzilla" "libreport-rhel-bugzilla" \
                 "linux-firmware-core" \
                 "oraclelinux-release" "oraclelinux-release-el8" \
+                "python3-gobject-base-noarch" \
                 "redhat-release" "redhat-release-eula" \
                 "rocky-release" "rocky-gpg-keys" "rocky-repos" \
                 "rocky-obsolete-packages" "libblockdev-btrfs" \
