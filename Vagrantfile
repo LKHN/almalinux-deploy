@@ -55,7 +55,7 @@ Vagrant.configure("2") do |config|
   end
 
   config.vm.define "oracle9" do |i|
-    i.vm.box = "generic/oracle9"
+    i.vm.box = "eurolinux-vagrant/oracle-linux-9"
     i.vm.hostname = "oracle9"
   end
 
